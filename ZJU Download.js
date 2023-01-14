@@ -5,6 +5,7 @@
 // @description  This script is developed to change the irregular name of file downloaded from ZJU website
 // @author       Zhang Hongning
 // @match        *://*.zju.edu.cn/*
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=www.zju.edu.cn
 // @grant        none
 // ==/UserScript==
 
